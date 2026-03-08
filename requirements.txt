@@ -5,5 +5,5 @@ scikit-learn
 matplotlib
 tensorboard
 seaborn
-streamlit
-scikeras
+setuptools<82
+streamlit>=1.40.0
